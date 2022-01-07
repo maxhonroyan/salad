@@ -1,0 +1,17 @@
+# All configuration settings must appear on a new line.
+# All whitespace, besides the newline character '\n', is ignored.
+# All settings passed via the command line take precedence.
+# The configuration file will be overwritten by Parsec when changing settings,
+#   so if you edit this file while Parsec is running, make sure to save this file
+#   and restart Parsec immediately so your changes are preserved.
+
+# Example:
+# encoder_bitrate = 10
+
+app_host_peer_id = 23BoKHpqxacDeDedMDFSWZdELGp
+app_flags = 1
+app_run_level = 1
+app_changelog_ver = 2
+client_vsync = 0
+client_windowed = 1
+client_immersive = 2

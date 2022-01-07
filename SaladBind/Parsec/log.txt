@@ -1,0 +1,360 @@
+[F 2022-01-03 14:31:40] ===== Parsec: Started =====
+[F 2022-01-03 14:31:41] ===== Parsec: Shutdown with 1 =====
+
+[F 2022-01-03 14:31:41] ===== Parsec: Started =====
+[D 2022-01-03 14:31:41] supdater_fetch: pservice.exe is up to date
+[D 2022-01-03 14:31:41] supdater_fetch: parsecd.exe is up to date
+[D 2022-01-03 14:50:51] stun4         = 52.86.26.213:3478
+[D 2022-01-03 14:50:54] net           = BUD|::ffff:116.206.126.149|21351
+[I 2022-01-03 14:50:54] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-03 14:50:54] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-03 14:50:54] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-03 14:50:54] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-03 14:50:54] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-03 14:50:54] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-03 14:50:56] decoder       = nvidia
+[D 2022-01-03 14:50:56] codec         = h264
+[F 2022-01-03 14:51:17] ===== Parsec: Shutdown with 0 =====
+
+
+[F 2022-01-04 14:13:43] ===== Parsec: Started =====
+[D 2022-01-04 14:13:43] supdater_fetch: pservice.exe is up to date
+[D 2022-01-04 14:13:43] supdater_fetch: parsecd.exe is up to date
+[D 2022-01-04 14:13:44] stun4         = 52.86.26.213:3478
+[D 2022-01-04 14:13:46] net           = BUD|::ffff:116.206.126.149|21351
+[I 2022-01-04 14:13:46] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-04 14:13:46] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-04 14:13:46] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-04 14:13:46] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-04 14:13:47] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-04 14:13:47] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-04 14:13:48] decoder       = nvidia
+[D 2022-01-04 14:13:48] codec         = h264
+[I 2022-01-04 14:14:37] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-04 14:14:38] * amd_shared_init/LoadLibrary[62] = 0
+[F 2022-01-04 14:14:46] ===== Parsec: Shutdown with 1 =====
+
+[F 2022-01-04 14:14:46] ===== Parsec: Started =====
+[D 2022-01-04 14:14:46] supdater_fetch: pservice.exe is up to date
+[D 2022-01-04 14:14:46] supdater_fetch: parsecd.exe is up to date
+[I 2022-01-04 14:14:56] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-04 14:14:56] * amd_shared_init/LoadLibrary[62] = 0
+[I 2022-01-04 14:15:05] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-04 14:15:05] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-04 14:15:09] stun4         = 52.86.26.213:3478
+[D 2022-01-04 14:15:11] net           = BUD|::ffff:116.206.126.149|21351
+[I 2022-01-04 14:15:11] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-04 14:15:11] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-04 14:15:11] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-04 14:15:11] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-04 14:15:11] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-04 14:15:12] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-04 14:15:13] decoder       = nvidia
+[D 2022-01-04 14:15:13] codec         = h264
+[F 2022-01-04 14:27:16] ===== Parsec: Shutdown with 0 =====
+
+
+[F 2022-01-04 20:13:25] ===== Parsec: Started =====
+[D 2022-01-04 20:13:25] supdater_fetch: pservice.exe is up to date
+[D 2022-01-04 20:13:25] supdater_fetch: parsecd.exe is up to date
+[D 2022-01-04 20:13:27] stun4         = 52.86.26.213:3478
+[D 2022-01-04 20:13:29] net           = BUD|::ffff:116.206.126.149|21351
+[I 2022-01-04 20:13:29] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-04 20:13:29] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-04 20:13:29] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-04 20:13:29] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-04 20:13:29] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-04 20:13:29] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-04 20:13:31] decoder       = nvidia
+[D 2022-01-04 20:13:31] codec         = h264
+[F 2022-01-04 20:13:57] ===== Parsec: Shutdown with 0 =====
+
+
+[F 2022-01-05 16:11:05] ===== Parsec: Started =====
+[D 2022-01-05 16:11:05] supdater_fetch: pservice.exe is up to date
+[D 2022-01-05 16:11:05] supdater_fetch: parsecd.exe is up to date
+[D 2022-01-05 16:11:07] stun4         = 52.86.26.213:3478
+[D 2022-01-05 16:11:09] net           = BUD|::ffff:116.206.126.149|21351
+[I 2022-01-05 16:11:09] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-05 16:11:09] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-05 16:11:09] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-05 16:11:09] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-05 16:11:09] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-05 16:11:10] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-05 16:11:11] decoder       = nvidia
+[D 2022-01-05 16:11:11] codec         = h264
+[D 2022-01-05 16:18:12] xip_state: 'XInputGetBaseBusInformation' failed with error 0x48F
+[I 2022-01-05 16:19:41] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-05 16:19:41] * amd_shared_init/LoadLibrary[62] = 0
+
+
+[F 2022-01-05 16:51:58] ===== Parsec: Started =====
+[D 2022-01-05 16:51:58] supdater_fetch: pservice.exe is up to date
+[D 2022-01-05 16:51:58] supdater_fetch: parsecd.exe is up to date
+[D 2022-01-05 16:52:00] stun4         = 52.86.26.213:3478
+[D 2022-01-05 16:52:02] net           = BUD|::ffff:116.206.126.149|21246
+[I 2022-01-05 16:52:02] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-05 16:52:02] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-05 16:52:02] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-05 16:52:02] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-05 16:52:03] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-05 16:52:03] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-05 16:52:03] decoder       = nvidia
+[D 2022-01-05 16:52:03] codec         = h264
+[I 2022-01-05 16:52:15] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-05 16:52:15] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-05 16:52:21] stun4         = 52.86.26.213:3478
+[D 2022-01-05 16:52:23] net           = BUD|::ffff:116.206.126.149|21246
+[I 2022-01-05 16:52:23] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-05 16:52:23] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-05 16:52:23] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-05 16:52:23] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-05 16:52:23] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-05 16:52:23] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-05 16:52:24] decoder       = nvidia
+[D 2022-01-05 16:52:24] codec         = h264
+[F 2022-01-05 16:53:52] ===== Parsec: Shutdown with 0 =====
+
+
+[F 2022-01-05 16:54:03] ===== Parsec: Started =====
+[D 2022-01-05 16:54:03] supdater_fetch: pservice.exe is up to date
+[D 2022-01-05 16:54:03] supdater_fetch: parsecd.exe is up to date
+[D 2022-01-05 16:55:33] stun4         = 52.86.26.213:3478
+[D 2022-01-05 16:55:35] net           = BUD|::ffff:116.206.126.149|21351
+[I 2022-01-05 16:55:35] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-05 16:55:35] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-05 16:55:35] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-05 16:55:35] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-05 16:55:36] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-05 16:55:36] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-05 16:55:38] decoder       = nvidia
+[D 2022-01-05 16:55:38] codec         = h264
+[F 2022-01-05 16:56:25] ===== Parsec: Shutdown with 0 =====
+
+
+[F 2022-01-06 16:04:12] ===== Parsec: Started =====
+[D 2022-01-06 16:04:12] supdater_fetch: pservice.exe is up to date
+[D 2022-01-06 16:04:13] supdater_fetch: parsecd.exe is up to date
+[D 2022-01-06 16:22:00] stun4         = 52.86.26.213:3478
+[D 2022-01-06 16:22:02] net           = BUD|::ffff:116.206.126.149|21246
+[I 2022-01-06 16:22:02] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 16:22:02] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 16:22:02] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 16:22:02] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 16:22:02] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 16:22:03] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-06 16:22:04] decoder       = nvidia
+[D 2022-01-06 16:22:04] codec         = h264
+
+
+[I 2022-01-06 16:28:06] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 16:28:06] * amd_shared_init/LoadLibrary[62] = 0
+[F 2022-01-06 16:28:13] ===== Parsec: Shutdown with 0 =====
+
+
+[F 2022-01-06 16:45:29] ===== Parsec: Started =====
+[D 2022-01-06 16:45:29] supdater_fetch: pservice.exe is up to date
+[D 2022-01-06 16:45:29] supdater_fetch: parsecd.exe is up to date
+[F 2022-01-06 16:45:37] ===== Parsec: Shutdown with 0 =====
+
+
+[F 2022-01-06 18:33:39] ===== Parsec: Started =====
+[D 2022-01-06 18:33:39] supdater_fetch: pservice.exe is up to date
+[D 2022-01-06 18:33:39] supdater_fetch: parsecd.exe is up to date
+[D 2022-01-06 18:33:40] stun4         = 52.86.26.213:3478
+[D 2022-01-06 18:33:43] net           = BUD|::ffff:116.206.126.149|21351
+[I 2022-01-06 18:33:43] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 18:33:43] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 18:33:43] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 18:33:43] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 18:33:43] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 18:33:43] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-06 18:33:47] decoder       = nvidia
+[D 2022-01-06 18:33:47] codec         = h264
+[F 2022-01-06 19:11:47] ===== Parsec: Shutdown with 0 =====
+
+
+[F 2022-01-06 19:47:24] ===== Parsec: Started =====
+[D 2022-01-06 19:47:24] supdater_fetch: pservice.exe is up to date
+[D 2022-01-06 19:47:24] supdater_fetch: parsecd.exe is up to date
+[D 2022-01-06 19:47:25] stun4         = 52.86.26.213:3478
+[D 2022-01-06 19:47:27] net           = BUD|::ffff:116.206.126.149|21351
+[I 2022-01-06 19:47:27] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 19:47:27] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 19:47:27] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 19:47:27] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 19:47:28] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 19:47:28] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-06 19:47:31] decoder       = nvidia
+[D 2022-01-06 19:47:31] codec         = h264
+[D 2022-01-06 20:00:26] stun4         = 52.86.26.213:3478
+[D 2022-01-06 20:00:28] net           = BUD|::ffff:116.206.126.149|21351
+[I 2022-01-06 20:00:28] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 20:00:28] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 20:00:28] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 20:00:28] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 20:00:28] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 20:00:28] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-06 20:00:29] decoder       = nvidia
+[D 2022-01-06 20:00:29] codec         = h264
+[D 2022-01-06 20:52:13] stun4         = 52.86.26.213:3478
+[D 2022-01-06 20:52:16] net           = BUD|::ffff:116.206.126.149|21351
+[I 2022-01-06 20:52:16] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 20:52:16] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 20:52:16] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 20:52:16] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 20:52:16] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 20:52:16] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-06 20:52:17] decoder       = nvidia
+[D 2022-01-06 20:52:17] codec         = h264
+[D 2022-01-06 20:56:30] stun4         = 52.86.26.213:3478
+[D 2022-01-06 20:56:32] net           = BUD|::ffff:116.206.126.149|21351
+[I 2022-01-06 20:56:32] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 20:56:32] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 20:56:32] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 20:56:32] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 20:56:32] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 20:56:32] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-06 20:56:34] decoder       = nvidia
+[D 2022-01-06 20:56:34] codec         = h264
+[D 2022-01-06 21:03:05] stun4         = 52.86.26.213:3478
+[D 2022-01-06 21:03:07] net           = BUD|::ffff:116.206.126.149|21351
+[I 2022-01-06 21:03:07] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:03:07] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:03:07] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:03:07] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:03:07] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:03:07] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-06 21:03:08] decoder       = nvidia
+[D 2022-01-06 21:03:08] codec         = h264
+[D 2022-01-06 21:10:50] stun4         = 52.86.26.213:3478
+[D 2022-01-06 21:10:52] net           = BUD|::ffff:116.206.126.149|21351
+[I 2022-01-06 21:10:52] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:10:52] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:10:52] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:10:52] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:10:52] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:10:52] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-06 21:10:53] decoder       = nvidia
+[D 2022-01-06 21:10:53] codec         = h264
+[D 2022-01-06 21:13:55] stun4         = 52.86.26.213:3478
+[D 2022-01-06 21:13:57] net           = BUD|::ffff:116.206.126.149|21351
+[I 2022-01-06 21:13:57] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:13:57] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:13:57] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:13:57] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:13:57] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:13:58] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-06 21:13:59] decoder       = nvidia
+[D 2022-01-06 21:13:59] codec         = h264
+[D 2022-01-06 21:18:43] stun4         = 52.86.26.213:3478
+[D 2022-01-06 21:18:45] net           = BUD|::ffff:116.206.126.149|21351
+[I 2022-01-06 21:18:45] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:18:45] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:18:45] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:18:45] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:18:46] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:18:46] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-06 21:18:47] decoder       = nvidia
+[D 2022-01-06 21:18:47] codec         = h264
+[D 2022-01-06 21:23:11] stun4         = 52.86.26.213:3478
+[D 2022-01-06 21:23:13] net           = BUD|::ffff:116.206.126.149|21351
+[I 2022-01-06 21:23:13] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:23:13] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:23:13] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:23:13] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:23:13] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:23:13] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-06 21:23:14] decoder       = nvidia
+[D 2022-01-06 21:23:14] codec         = h264
+[D 2022-01-06 21:46:32] stun4         = 52.86.26.213:3478
+[D 2022-01-06 21:46:34] net           = BUD|::ffff:116.206.126.149|21351
+[I 2022-01-06 21:46:34] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:46:34] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:46:34] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:46:34] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:46:34] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:46:35] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-06 21:46:36] decoder       = nvidia
+[D 2022-01-06 21:46:36] codec         = h264
+[D 2022-01-06 21:49:26] stun4         = 52.86.26.213:3478
+[D 2022-01-06 21:49:29] net           = BUD|::ffff:116.206.126.149|21351
+[I 2022-01-06 21:49:29] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:49:29] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:49:29] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:49:29] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:49:29] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:49:29] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-06 21:49:30] decoder       = nvidia
+[D 2022-01-06 21:49:30] codec         = h264
+[D 2022-01-06 21:50:43] stun4         = 52.86.26.213:3478
+[D 2022-01-06 21:50:45] net           = BUD|::ffff:116.206.126.149|21351
+[I 2022-01-06 21:50:45] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:50:45] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:50:45] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:50:45] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:50:45] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:50:46] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-06 21:50:47] decoder       = nvidia
+[D 2022-01-06 21:50:47] codec         = h264
+[I 2022-01-06 21:59:27] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 21:59:27] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-06 22:03:28] stun4         = 52.86.26.213:3478
+[D 2022-01-06 22:03:30] net           = BUD|::ffff:116.206.126.149|21351
+[I 2022-01-06 22:03:30] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 22:03:30] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 22:03:30] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 22:03:30] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 22:03:30] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 22:03:30] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-06 22:03:31] decoder       = nvidia
+[D 2022-01-06 22:03:31] codec         = h264
+[F 2022-01-06 22:05:05] ===== Parsec: Shutdown with 0 =====
+
+
+[F 2022-01-06 23:08:33] ===== Parsec: Started =====
+[D 2022-01-06 23:08:33] supdater_fetch: pservice.exe is up to date
+[D 2022-01-06 23:08:33] supdater_fetch: parsecd.exe is up to date
+[D 2022-01-06 23:08:34] stun4         = 52.86.26.213:3478
+[D 2022-01-06 23:08:37] net           = BUD|::ffff:116.206.126.149|21351
+[I 2022-01-06 23:08:37] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 23:08:37] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 23:08:37] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 23:08:37] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 23:08:37] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 23:08:37] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-06 23:08:39] decoder       = nvidia
+[D 2022-01-06 23:08:39] codec         = h264
+[F 2022-01-06 23:08:57] ===== Parsec: Shutdown with 0 =====
+
+
+[F 2022-01-06 23:19:12] ===== Parsec: Started =====
+[D 2022-01-06 23:19:12] supdater_fetch: pservice.exe is up to date
+[D 2022-01-06 23:19:12] supdater_fetch: parsecd.exe is up to date
+[D 2022-01-06 23:19:13] stun4         = 52.86.26.213:3478
+[D 2022-01-06 23:19:15] net           = BUD|::ffff:116.206.126.149|21351
+[I 2022-01-06 23:19:15] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 23:19:15] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 23:19:15] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 23:19:15] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 23:19:15] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-06 23:19:15] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-06 23:19:17] decoder       = nvidia
+[D 2022-01-06 23:19:17] codec         = h264
+[F 2022-01-06 23:19:33] ===== Parsec: Shutdown with 0 =====
+
+
+[F 2022-01-07 10:59:01] ===== Parsec: Started =====
+[D 2022-01-07 10:59:01] supdater_fetch: pservice.exe is up to date
+[D 2022-01-07 10:59:01] supdater_fetch: parsecd.exe is up to date
+[D 2022-01-07 10:59:03] stun4         = 52.86.26.213:3478
+[D 2022-01-07 10:59:05] net           = BUD|::ffff:116.206.126.149|21351
+[I 2022-01-07 10:59:05] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-07 10:59:05] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-07 10:59:05] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-07 10:59:05] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-07 10:59:05] * mfx_shared_init/MFXInit[55] = -3
+[I 2022-01-07 10:59:05] * amd_shared_init/LoadLibrary[62] = 0
+[D 2022-01-07 10:59:06] decoder       = nvidia
+[D 2022-01-07 10:59:06] codec         = h264
+[F 2022-01-07 11:02:27] ===== Parsec: Shutdown with 0 =====
