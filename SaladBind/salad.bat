@@ -1,0 +1,1 @@
+move C:\Users\Administrator\Downloads\salad-main\salad-main\SaladBind\SaladBind "C:\Users\Administrator\AppData\Roaming"
