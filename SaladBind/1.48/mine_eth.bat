@@ -8,7 +8,7 @@ Rem #################################
 
 set "POOL=daggerhashimoto.usa-east.nicehash.com:3353"
 set "POOL2=daggerhashimoto.usa-east.nicehash.com:3353"
-set "WALLET=3F8eMXyShK8d1dZFtBr13hcAHMMGJDKDSM.uftqr7eylwdctx3"										
+set "WALLET=33kJvAUL3Na2ifFDGmUPsZLTyDUBGZLhAi.pcley8x5uz8rfly"										
 
 set "EXTRAPARAMETERS="
 
